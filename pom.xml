@@ -8,6 +8,13 @@
   <name>myapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+        <connection>scm:git:git@github.com:devops-studentXX/devops-student01-myapp.git</connection>
+        <url>scm:git:git@github.com:devops-studentXX/devops-student01-myapp.git</url>
+        <developerConnection>scm:git:git@github.com:devops-studentXX/devops-student01-myapp.git</developerConnection>
+        <tag>MyApp-1.0</tag>
+   </scm>
+
   <distributionManagement>
         <repository>
             <id>nexus</id>
